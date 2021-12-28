@@ -1,0 +1,12 @@
+Sites and References Used
+W3 Schools
+Udacity Data Nano Degree Mentor and Peer Boards WGU Chatter Python and XML by Christopher A. Jones and Fred L. Drake Jr.
+https://360techexplorer.com/tools/python-2-to-3-converter/
+https://www.mygreatlearning.com/blog/regular-expression-in-python/
+https://stackoverflow.com/questions/31697043/replace-exact-substring-in-python
+https://www.kite.com/python/answers/how-to-test-a-url-in-python![image.png](attachment:image.png)
+https://amiradata.com/python-get-file-size-in-kb-mb-or-gb/
+https://www.markdownguide.org/basic-syntax/#ordered-lists
+Linked in Learning Joe Marini, Python JSON XML and the Web https://www.linkedin.com/learning/python-xml-json-and-the-web/overview-of-the-requests-library?u=2045532![image-2.png](attachment:image-2.png)
+
+Kristin Lynch 10/17/21
